@@ -1,1 +1,1 @@
-simple application in php to check strengh of a password
+## simple application in php to check the strength of a password
